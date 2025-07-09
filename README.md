@@ -81,7 +81,7 @@ Feel free to **fork** this repository, enhance the UI, or add new features via p
 
 **K. Kavya**  
 🎓 Student, SRM University AP  
-💡 Passionate about building modern, interactive web applications with clean design.
+💡  Passionate about developing efficient, user-friendly web portals that simplify and automate campus placement processes using web applications.
 
 ---
 
